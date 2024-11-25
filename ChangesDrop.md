@@ -8,6 +8,8 @@
 ## Special_Packages-Cargo_Drops-Examine_Ghillie_Pants_1_CargoDrop
 ## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
 ## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Power_Tools_1_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Power_Tools_2_CargoDrop
 
 # Replaced with Abunded Bunker loot
 ## Special_Packages-Cargo_Drops-Examine_Revolver_CargoDrop
@@ -142,7 +144,7 @@
 			"Rarity": "Uncommon",
 			"Id": "Special_Packages-Vault-Examine_Explosives_5_Vault_Pack"
 
-			"Rarity": "Very Rare",
+			"Rarity": "Uncommon",
 			"Id": "Special_Packages-Vault-Examine_AT4_HEAT_Vault_Pack"
 
 			"Rarity": "Uncommon",
@@ -157,10 +159,10 @@
 			"Rarity": "Uncommon",
 			"Id": "Special_Packages-Vault-Examine_AWM_Ammo_Vault_Pack"
 
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Special_Packages-Vault-Examine_M82A1_Vault_Pack"
 
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Id": "Special_Packages-Vault-Examine_M82A1_Ammo_Vault_Pack"
 
 			"Rarity": "Uncommon",
