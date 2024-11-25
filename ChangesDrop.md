@@ -1,27 +1,27 @@
 # Added Abunded Bunker loot
-## Special_Packages-Cargo_Drops-Examine_Liquor_1_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Liquor_2_CargoDrop 
-## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Drink_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Food_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Ghillie_Jacket_1_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Ghillie_Pants_1_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Power_Tools_1_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Power_Tools_2_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Liquor_1_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Liquor_2_CargoDrop 
+	Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Drink_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Food_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Ghillie_Jacket_1_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Ghillie_Pants_1_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Power_Tools_1_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Power_Tools_2_CargoDrop
 
 # Replaced with Abunded Bunker loot
-## Special_Packages-Cargo_Drops-Examine_Revolver_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Revolver2_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Revolver3_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Revolver4_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Pistols_M1911_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Pistols_M9_Silver_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_M1891_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_M1891_Addons_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_M1887_Short_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_M1887_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Revolver_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Revolver2_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Revolver3_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Revolver4_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Pistols_M1911_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Pistols_M9_Silver_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_M1891_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_M1891_Addons_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_M1887_Short_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_M1887_CargoDrop
 
 # Other minor changes
 ## Special_Packages-Cargo_Drops-Examine_Hiking_CargoDrop (replaced with military gear)
@@ -95,28 +95,8 @@
 		"Car_Jack",
 		"Car_Battery"
 # Added Abunded Bunker loot
-## Special_Packages-Cargo_Drops-Examine_Liquor_1_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Liquor_2_CargoDrop 
-## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Drink_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Food_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Ghillie_Jacket_1_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Ghillie_Pants_1_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
 
-# Replaced with Abunded Bunker loot
-## Special_Packages-Cargo_Drops-Examine_Revolver_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Revolver2_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Revolver3_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Revolver4_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Pistols_M1911_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_Pistols_M9_Silver_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_M1891_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_M1891_Addons_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_M1887_Short_CargoDrop
-## Special_Packages-Cargo_Drops-Examine_M1887_CargoDrop
-##### Abunded Bunker loot
+### Abunded Bunker loot
 			"Rarity": "Uncommon",
 			"Id": "Special_Packages-Vault-Examine_RPK_Vault_Pack"
 
