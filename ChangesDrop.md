@@ -56,7 +56,69 @@
 		"Car_Jack",
 		"Car_Battery"
 
+## Special_Packages-Cargo_Drops-Examine_Liquor_1_CargoDrop
+### Added 
+##### Abunded Bunker loot
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_RPK_Vault_Pack"
 
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_RPK_Ammo_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_GrenadeLauncher_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_GrenadeLauncher_Ammo_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_Explosives_1_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_Explosives_2_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_Explosives_3_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_Explosives_4_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_Explosives_5_Vault_Pack"
+
+			"Rarity": "Very Rare",
+			"Id": "Special_Packages-Vault-Examine_AT4_HEAT_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWP_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWP_Ammo_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWM_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_AWM_Ammo_Vault_Pack"
+
+			"Rarity": "Rare",
+			"Id": "Special_Packages-Vault-Examine_M82A1_Vault_Pack"
+
+			"Rarity": "Rare",
+			"Id": "Special_Packages-Vault-Examine_M82A1_Ammo_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_SVD_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_SVD_Ammo_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_M249_Vault_Pack"
+
+			"Rarity": "Uncommon",
+			"Id": "Special_Packages-Vault-Examine_M249_Ammo_Vault_Pack"
+		
 Add batteries no nvg and flashlights for guns
 
 
