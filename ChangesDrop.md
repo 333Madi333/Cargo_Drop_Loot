@@ -1,4 +1,41 @@
-# Weapon Drops (still in progress)
+# Added Abunded Bunker loot
+## Special_Packages-Cargo_Drops-Examine_Liquor_1_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Liquor_2_CargoDrop 
+## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Drink_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Food_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Ghillie_Jacket_1_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Ghillie_Pants_1_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+
+# Replaced with Abunded Bunker loot
+## Special_Packages-Cargo_Drops-Examine_Revolver_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Revolver2_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Revolver3_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Revolver4_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Pistols_M1911_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Pistols_M9_Silver_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_M1891_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_M1891_Addons_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_M1887_Short_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_M1887_CargoDrop
+
+# Other minor changes
+## Special_Packages-Cargo_Drops-Examine_Hiking_CargoDrop (replaced with military gear)
+    Added
+        "Military_Backpack_02_02",
+		"CombatBoots",
+		"Armor_Tactical_Vest_01_02",
+		"Combat_Helmet_02",
+		"Tactical_Jacket_01_02",
+		"MilitaryPants_02"
+    Removed
+    	"Hiking_Backpack_01_01",
+		"Hiking_Boots_01",
+		"Short_Trousers_01_03",
+		"Tracksuit_Top_02",
+		"Military_Beanie_03"
 ## Special_Packages-Cargo_Drops-Examine_ASVal_Addons_CargoDrop 
     added 
 		"ScopeRail_AK47",
@@ -55,9 +92,28 @@
 		"Car_Repair_Kit",
 		"Car_Jack",
 		"Car_Battery"
-
+# Added Abunded Bunker loot
 ## Special_Packages-Cargo_Drops-Examine_Liquor_1_CargoDrop
-### Added 
+## Special_Packages-Cargo_Drops-Examine_Liquor_2_CargoDrop 
+## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Drink_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Food_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Ghillie_Jacket_1_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Ghillie_Pants_1_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+
+# Replaced with Abunded Bunker loot
+## Special_Packages-Cargo_Drops-Examine_Revolver_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Revolver2_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Revolver3_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Revolver4_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Pistols_M1911_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_Pistols_M9_Silver_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_M1891_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_M1891_Addons_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_M1887_Short_CargoDrop
+## Special_Packages-Cargo_Drops-Examine_M1887_CargoDrop
 ##### Abunded Bunker loot
 			"Rarity": "Uncommon",
 			"Id": "Special_Packages-Vault-Examine_RPK_Vault_Pack"
