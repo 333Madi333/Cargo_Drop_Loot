@@ -156,6 +156,12 @@
 		"Car_Jack",
 		"Car_Battery"
 
-
-
-Have to add batteries to NVG and Flashlights
+## Added batteries to
+	Special_Packages-Cargo_Drops-Examine_ASVal_Addons_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Pistols_Block21_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Pistols_Deagle_05_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Pistols_Deagle_357_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_Pistols_M9_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_UMP_Addons_CargoDrop
+	Special_Packages-Cargo_Drops-Examine_VSS_Addons_CargoDrop

@@ -1,6 +1,7 @@
 {
 	"FixedItems": [
-		"Night_Vision_Googles_01"
+		"Night_Vision_Googles_01",
+		"Batteries"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

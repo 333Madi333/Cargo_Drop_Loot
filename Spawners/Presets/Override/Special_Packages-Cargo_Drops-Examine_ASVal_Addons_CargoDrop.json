@@ -8,7 +8,8 @@
 		"Cal_9x39mm_Ammobox",
 		"WeaponFlashlight_AS_Val",
 		"ScopeRail_AK47",
-		"WeaponScope_ACOG_01"
+		"WeaponScope_ACOG_01",
+		"Batteries"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,
